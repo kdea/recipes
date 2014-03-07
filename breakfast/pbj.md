@@ -15,4 +15,4 @@ Amazing sandwich
 * put the other piece of bread on top
 
 ## Serving Suggestion
-put on a plate
+put on a plate.
